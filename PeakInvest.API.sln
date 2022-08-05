@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakInvest.API", "PeakInvest.API\PeakInvest.API.csproj", "{4D9A5B79-1817-4949-A421-7B468C10CF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D9A5B79-1817-4949-A421-7B468C10CF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9A5B79-1817-4949-A421-7B468C10CF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9A5B79-1817-4949-A421-7B468C10CF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9A5B79-1817-4949-A421-7B468C10CF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
